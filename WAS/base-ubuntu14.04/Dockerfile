@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
 
-MAINTAINER Kwangmyung Kim <kmkim@whatap.io>
+MAINTAINER Kwangmyung Kim <kwangmyung.kim@gmail.com>
 
 # Set locales
 RUN locale-gen en_GB.UTF-8
